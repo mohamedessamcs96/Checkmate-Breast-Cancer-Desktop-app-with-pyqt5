@@ -1,0 +1,9 @@
+
+For Making a username and a password for a new  doctor
+1-open Login page 
+2-Enter username : admin
+3-Enter Password:htibcadmin
+4-Click Login
+5-Add the doctor name username ,password and email and it will send to it automatically 
+if you don't recive a mail 
+remember to connect to the internet and allow less secure app for your email from here: https://myaccount.google.com/lesssecureapps
